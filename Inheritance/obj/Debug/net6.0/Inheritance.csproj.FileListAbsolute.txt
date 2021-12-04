@@ -1,0 +1,15 @@
+C:\Users\sarik\Documents\C# Ogreniyorum\Classes\Inheritance\bin\Debug\net6.0\Inheritance.exe
+C:\Users\sarik\Documents\C# Ogreniyorum\Classes\Inheritance\bin\Debug\net6.0\Inheritance.deps.json
+C:\Users\sarik\Documents\C# Ogreniyorum\Classes\Inheritance\bin\Debug\net6.0\Inheritance.runtimeconfig.json
+C:\Users\sarik\Documents\C# Ogreniyorum\Classes\Inheritance\bin\Debug\net6.0\Inheritance.dll
+C:\Users\sarik\Documents\C# Ogreniyorum\Classes\Inheritance\bin\Debug\net6.0\ref\Inheritance.dll
+C:\Users\sarik\Documents\C# Ogreniyorum\Classes\Inheritance\bin\Debug\net6.0\Inheritance.pdb
+C:\Users\sarik\Documents\C# Ogreniyorum\Classes\Inheritance\obj\Debug\net6.0\Inheritance.csproj.AssemblyReference.cache
+C:\Users\sarik\Documents\C# Ogreniyorum\Classes\Inheritance\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarik\Documents\C# Ogreniyorum\Classes\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\sarik\Documents\C# Ogreniyorum\Classes\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+C:\Users\sarik\Documents\C# Ogreniyorum\Classes\Inheritance\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\sarik\Documents\C# Ogreniyorum\Classes\Inheritance\obj\Debug\net6.0\Inheritance.dll
+C:\Users\sarik\Documents\C# Ogreniyorum\Classes\Inheritance\obj\Debug\net6.0\ref\Inheritance.dll
+C:\Users\sarik\Documents\C# Ogreniyorum\Classes\Inheritance\obj\Debug\net6.0\Inheritance.pdb
+C:\Users\sarik\Documents\C# Ogreniyorum\Classes\Inheritance\obj\Debug\net6.0\Inheritance.genruntimeconfig.cache
